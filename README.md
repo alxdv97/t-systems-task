@@ -11,8 +11,8 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 
 ### Result ###
 
-* Author name : {Alexey Deyev}
-* Codeship : {{<img src="https://app.codeship.com/projects/95778d30-a65a-0138-c3cf-6a9b935f57ee/status?branch=master" />}[https://app.codeship.com/projects/402580]}
+* Author name : Alexey Deyev
+* Codeship : [![Codeship Status for alxdv97/javaschoolexam](https://app.codeship.com/projects/95778d30-a65a-0138-c3cf-6a9b935f57ee/status?branch=master)](https://app.codeship.com/projects/402580)
 
 
 ### How to start?  ###
